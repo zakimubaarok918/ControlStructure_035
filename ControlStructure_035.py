@@ -9,3 +9,6 @@ elif nilai >= 60:
     print("Average performance")  
 else:
     print("Needs improvement")
+
+for steps in range(1,4):
+    print(Steps)      
